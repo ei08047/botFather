@@ -7,9 +7,6 @@ class DataEntry extends React.Component {
   constructor(props) {
     super(props);
     console.log(this.props)
-    this.handleChange = this.handleChange.bind(this);
-    this.state = {
-    };
   }
 
 
